@@ -1,0 +1,23 @@
+.container
+{
+    display: flex;
+    background-color: purple;
+    height: 500px;
+    width: 500px;
+    flex-wrap: wrap;
+}
+
+.doboz{
+    background-color: brown;
+    height: 150px;
+    width: 150px;
+   margin-left: 15px;
+   margin-top: 10px;
+}
+
+.gomb
+{
+    margin-left: 200px;
+    margin-top: 20px;
+}
+
